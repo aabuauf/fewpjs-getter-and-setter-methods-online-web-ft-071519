@@ -19,5 +19,9 @@ get circumference(){
 set diameter(diameter){
   this.radius = diameter/2
 }
+
+set circumference(circumference){
+  radius = circumference/2/Math.PI
+}
 }
 
