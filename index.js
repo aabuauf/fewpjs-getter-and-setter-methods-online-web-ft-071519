@@ -21,7 +21,7 @@ set diameter(diameter){
 }
 
 set circumference(circumference){
-  radius = circumference/2/Math.PI
+  this.radius = circumference/2/Math.PI
 }
 }
 
