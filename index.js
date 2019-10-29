@@ -1,5 +1,15 @@
 // Add your Circle class here
 class Circle{
-  constraction
+   constructor(radius) {
+        this.radius = radius;
+    }
+get diameter(){
+  return this.radius *2 
+}
+
+get diameter(){
+  return this.radius *2 
+}
   
 }
+
